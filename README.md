@@ -40,6 +40,47 @@ I build practical digital products across **web, mobile, e-commerce, automation,
 
 ---
 
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/mohammedalhmed/mam_tkno">
+<img src="https://raw.githubusercontent.com/mohammedalhmed/mam_tkno/main/docs/portfolio/cover.svg" alt="MAM_Tkno" width="100%" />
+</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/mohammedalhmed/chicken-hat-restaurant-system">
+<img src="https://raw.githubusercontent.com/mohammedalhmed/chicken-hat-restaurant-system/main/docs/portfolio/cover.svg" alt="Chicken Hat" width="100%" />
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/mohammedalhmed/bellabox-salla-theme">
+<img src="https://raw.githubusercontent.com/mohammedalhmed/bellabox-salla-theme/main/docs/portfolio/cover.svg" alt="BellaBox Theme" width="100%" />
+</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/mohammedalhmed/bellabox-product-cnn">
+<img src="https://raw.githubusercontent.com/mohammedalhmed/bellabox-product-cnn/main/docs/portfolio/cover.svg" alt="BellaBox Product CNN" width="100%" />
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/mohammedalhmed/YARAWIC">
+<img src="https://raw.githubusercontent.com/mohammedalhmed/YARAWIC/main/docs/portfolio/cover.svg" alt="YARAWIC" width="100%" />
+</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/mohammedalhmed/coffee-shop-website">
+<img src="https://raw.githubusercontent.com/mohammedalhmed/coffee-shop-website/master/docs/portfolio/cover.svg" alt="Arabic Coffee Shop" width="100%" />
+</a>
+</td>
+</tr>
+</table>
+
 ## Selected Work
 
 | Project | What it demonstrates | Stack / Focus |
