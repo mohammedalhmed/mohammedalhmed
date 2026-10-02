@@ -11,6 +11,8 @@ I build practical digital products across **web, mobile, e-commerce, automation,
 
 </div>
 
+![Profile banner](assets/profile-banner.svg)
+
 ---
 
 ## Technical Profile
