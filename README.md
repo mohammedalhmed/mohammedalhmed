@@ -1,7 +1,7 @@
 <div align="center">
 
 # Mohammed Alhadrami
-### محمد الحضرمي
+### محمد الحضرمي · MAM_Tkno
 
 **Full-Stack Web Developer · Mobile Developer · UI/UX & Product Designer · AI-Assisted Builder**
 
@@ -91,6 +91,8 @@ I prefer projects that solve a real workflow or business problem rather than iso
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-mohammedalhmed-181717?style=for-the-badge&logo=github)](https://github.com/mohammedalhmed)
+[![Instagram](https://img.shields.io/badge/Instagram-mam__tkno-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mam_tkno)
+[![Telegram](https://img.shields.io/badge/Telegram-MAM__Tkno-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MAM_Tkno)
 
 **Build useful products. Design clear experiences. Automate what should not be repeated.**
 
