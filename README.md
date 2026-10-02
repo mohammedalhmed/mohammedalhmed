@@ -45,8 +45,8 @@ I build practical digital products across **web, mobile, e-commerce, automation,
 | Project | What it demonstrates | Stack / Focus |
 |---|---|---|
 | **[MAM_Tkno](https://github.com/mohammedalhmed/mam_tkno)** | Arabic-first digital studio and interactive website brief builder | React · Vite · RTL UX · Product architecture |
-| **[Chicken Hat Restaurant System](https://github.com/mohammedalhmed/Ch)** | Full-stack restaurant ordering, reservations, administration, authentication, and payment workflows | React · TypeScript · Express · PostgreSQL · Drizzle · Stripe |
-| **[BellaBox Theme 2.1](https://github.com/mohammedalhmed/newbellabox)** | Custom Salla e-commerce experience with responsive Arabic UX and complete storefront flows | Salla Twilight · Twig · JavaScript · E-commerce UX |
+| **[Chicken Hat Restaurant System](https://github.com/mohammedalhmed/chicken-hat-restaurant-system)** | Full-stack restaurant ordering, reservations, administration, authentication, and payment workflows | React · TypeScript · Express · PostgreSQL · Drizzle · Stripe |
+| **[BellaBox Theme 2.1](https://github.com/mohammedalhmed/bellabox-salla-theme)** | Custom Salla e-commerce experience with responsive Arabic UX and complete storefront flows | Salla Twilight · Twig · JavaScript · E-commerce UX |
 | **[BellaBox Product CNN](https://github.com/mohammedalhmed/bellabox-product-cnn)** | Real e-commerce image-classification pipeline with checkpoints and evaluation | Python · TensorFlow · EfficientNetB0 · Google Colab |
 | **[Arabic Coffee Shop E-commerce](https://github.com/mohammedalhmed/coffee-shop-website)** | Database-backed Arabic store with authentication, cart, wishlist, checkout, products, users, and orders | PHP · MySQL · PDO · JavaScript |
 | **[YARAWIC](https://github.com/mohammedalhmed/YARAWIC)** | Arabic RTL product-catalog experience with product options and WhatsApp ordering | React · Vite · Responsive UI · RTL |
@@ -54,7 +54,7 @@ I build practical digital products across **web, mobile, e-commerce, automation,
 ### Learning & Experimental Work
 
 - **[Pattern Recognition Question Bank](https://github.com/mohammedalhmed/pattern-recognition-question-bank)** — interactive Arabic training/exam application with progress persistence.
-- **[Islamic Quiz App](https://github.com/mohammedalhmed/islamic-quiz-app-live)** — React/TypeScript quiz application with randomized answers, scoring, and responsive UI.
+- **[Islamic Quiz App](https://github.com/mohammedalhmed/islamic-quiz-app)** — React/TypeScript quiz application with randomized answers, scoring, and responsive UI.
 
 ---
 
