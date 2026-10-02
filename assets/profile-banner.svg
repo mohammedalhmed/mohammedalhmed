@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="480" viewBox="0 0 1280 480">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#080D1A"/><stop offset="50%" stop-color="#111827"/><stop offset="100%" stop-color="#0B1020"/></linearGradient>
+<linearGradient id="ac" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#7C3AED"/><stop offset="50%" stop-color="#06B6D4"/><stop offset="100%" stop-color="#22C55E"/></linearGradient>
+</defs>
+<rect width="1280" height="480" fill="url(#bg)"/>
+<circle cx="1100" cy="60" r="300" fill="#7C3AED" opacity=".11"/><circle cx="1180" cy="440" r="280" fill="#06B6D4" opacity=".08"/>
+<g opacity=".08" stroke="#fff"><path d="M0 80H1280M0 160H1280M0 240H1280M0 320H1280M0 400H1280"/><path d="M80 0V480M160 0V480M240 0V480M320 0V480M400 0V480M480 0V480M560 0V480M640 0V480M720 0V480M800 0V480M880 0V480M960 0V480M1040 0V480M1120 0V480M1200 0V480"/></g>
+<rect x="62" y="54" width="1156" height="372" rx="34" fill="#fff" opacity=".035" stroke="#fff" stroke-opacity=".12"/>
+<rect x="78" y="78" width="90" height="90" rx="26" fill="url(#ac)"/><text x="123" y="137" text-anchor="middle" font-family="Arial,sans-serif" font-size="32" font-weight="800" fill="#fff">MT</text>
+<text x="78" y="236" font-family="Arial,sans-serif" font-size="64" font-weight="800" fill="#F9FAFB">Mohammed Alhadrami</text>
+<text x="78" y="288" font-family="Arial,sans-serif" font-size="28" fill="#CBD5E1">Full-Stack · Mobile · UI/UX · E-commerce · Applied AI</text>
+<rect x="78" y="320" width="430" height="8" rx="4" fill="url(#ac)"/>
+<text x="78" y="376" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#06B6D4">MAM_TKNO · BUILD · DESIGN · AUTOMATE</text>
+</svg>
